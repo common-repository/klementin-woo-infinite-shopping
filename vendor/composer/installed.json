@@ -1,0 +1,46 @@
+{
+    "packages": [
+        {
+            "name": "klementinweb/klementin-wp",
+            "version": "1.1.2",
+            "version_normalized": "1.1.2.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/PatrickSH/klementin-wp.git",
+                "reference": "18716ede354fcd2c75d4c023d445aa8fa6a79b92"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/PatrickSH/klementin-wp/zipball/18716ede354fcd2c75d4c023d445aa8fa6a79b92",
+                "reference": "18716ede354fcd2c75d4c023d445aa8fa6a79b92",
+                "shasum": ""
+            },
+            "time": "2022-03-16T09:10:19+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "files": [
+                    "src/init.php"
+                ],
+                "classmap": [
+                    "src"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "Klementin",
+                    "email": "kaffe@klementin.dk"
+                }
+            ],
+            "description": "Make WordPress developmemnt easier",
+            "support": {
+                "issues": "https://github.com/PatrickSH/klementin-wp/issues",
+                "source": "https://github.com/PatrickSH/klementin-wp/tree/1.1.2"
+            },
+            "install-path": "../klementinweb/klementin-wp"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}
